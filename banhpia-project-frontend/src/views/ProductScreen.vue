@@ -18,7 +18,7 @@
       <div class="grid">
         <div class="grid__row">
           <p class="footer__text">
-            &copy; 2022 - Bản quyền thuộc về công ty TMS
+            &copy; 2023 - Bản quyền thuộc về công ty MTT
           </p>
         </div>
       </div>
